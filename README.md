@@ -29,3 +29,5 @@ Como usuar o app:
 - Executar o arquivo CriarTabelaBD.py para criar a tabela Clientes
 - Executar o arquivo app.py (arquivo principal)
 - Usar login: admin e senha: admin
+
+obs.: Na pasta imagens poderá ver os prints das telas do app no arquivo Telas.png
